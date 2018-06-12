@@ -1,6 +1,5 @@
 hs.alert.closeAll()
 local ignored = require 'ignored'
--- https://github.com/hit1024/oh-my-hammerspoon/blob/master/README.md
 -- key define
 local drible = {'ctrl', 'cmd'}
 local dribleShift = {'ctrl', 'cmd', 'shift'}
